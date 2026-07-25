@@ -1,15 +1,6 @@
 <!--  github.com/edxeme/edxeme  ·  profile README  ·  terminal aesthetic  -->
 
-```text
- ●  ●  ●        edxeme@github: ~
-──────────────────────────────────────────────────────────────────────────
-$ whoami
-edxeme
-$ uname -a
-edxeme 5.0.0-dev "bricks→bytes" x86_64 GNU/Linux
-```
-
-<h1 align="left">Ed Martinez&nbsp;&nbsp;<sub><code>edxeme@github:~$</code></sub></h1>
+<h1 align="left">Ed Martinez</h1>
 
 <p align="left">
   <a href="https://github.com/edxeme"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=900&color=7BD7F7&center=false&vCenter=false&multiline=false&width=560&lines=Full-Stack+Developer+%7C+bytes;Architect+%7C+bricks;LLMOps+%C2%B7+AI+%C2%B7+RAG;building+AI-enhanced+SaaS" alt="Typing SVG" /></a>
@@ -24,6 +15,15 @@ edxeme 5.0.0-dev "bricks→bytes" x86_64 GNU/Linux
 </p>
 
 ---
+
+```text
+ ●  ●  ●        edxeme@github: ~
+──────────────────────────────────────────────────────────────────────────
+$ whoami
+edxeme
+$ uname -a
+edxeme 5.0.0-dev "bricks→bytes" x86_64 GNU/Linux
+```
 
 ## `$ export FOCUS="--ai-first"`
 
@@ -46,7 +46,7 @@ edxeme 5.0.0-dev "bricks→bytes" x86_64 GNU/Linux
   <img alt="Nuxt.js" src="https://img.shields.io/badge/Nuxt.js-00DC82?logo=nuxtdotjs&logoColor=white&style=flat-square">
   <img alt="TailwindCSS" src="https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white&style=flat-square">
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square">
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E&logo=javascript&logoColor=black&style=flat-square">
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square">
   <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=flat-square">
 </p>
 
