@@ -1,71 +1,33 @@
-<!-- ────────────────────────────────────────────────────────────────────── -->
-<!--  github.com/edxeme/edxeme  ·  profile README  ·  terminal aesthetic    -->
-<!--  author: Ed Martinez (Edwin Martínez) · edxeme                         -->
-<!-- ────────────────────────────────────────────────────────────────────── -->
+<!--  github.com/edxeme/edxeme  ·  profile README  ·  terminal aesthetic  -->
 
 ```text
  ●  ●  ●        edxeme@github: ~
 ──────────────────────────────────────────────────────────────────────────
 $ whoami
-Edwin "Ed" Martínez
+edxeme
 $ uname -a
-edxeme 5.0.0-dev "bricks→bytes" Bogotá.CO x86_64 GNU/Linux
+edxeme 5.0.0-dev "bricks→bytes" x86_64 GNU/Linux
 ```
 
 <h1 align="left">Ed Martinez&nbsp;&nbsp;<sub><code>edxeme@github:~$</code></sub></h1>
-
-**Full-Stack Developer (bytes) & Architect (bricks)** — Bogotá, Colombia
 
 <p align="left">
   <a href="https://github.com/edxeme"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=900&color=7BD7F7&center=false&vCenter=false&multiline=false&width=560&lines=Full-Stack+Developer+%7C+bytes;Architect+%7C+bricks;LLMOps+%C2%B7+AI+%C2%B7+RAG;building+AI-enhanced+SaaS" alt="Typing SVG" /></a>
 </p>
 
 <p align="left">
-  <a href="https://github.com/edxeme"><img alt="GitHub followers" src="https://img.shields.io/github/followers/edxeme?style=social&label=Follow&logo=github"></a>
   <a href="https://www.linkedin.com/in/edxeme"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-edxeme-0A66C2?style=flat-square&logo=linkedin&logoColor=white"></a>
   <a href="mailto:edxeme@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-edxeme@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white"></a>
-  <a href="https://edxeme.github.io"><img alt="Website" src="https://img.shields.io/badge/Web-edxeme.github.io-1f2937?style=flat-square&logo=googlechrome&logoColor=white"></a>
   <a href="https://www.google.com/maps/place/Bogotá"><img alt="Location" src="https://img.shields.io/badge/Location-Bogotá%2C_Colombia-E34234?style=flat-square"></a>
+  <a href="https://github.com/edxeme"><img alt="GitHub followers" src="https://img.shields.io/github/followers/edxeme?style=social&label=Follow&logo=github"></a>
   <img alt="Visitors" src="https://komarev.com/ghpvc/?username=edxeme&style=flat-square&color=7BD7F7&label=profile+visits">
 </p>
 
 ---
 
-## `$ cat profile.yml`
-
-```yaml
-# edxeme@contech-os:~$ cat profile.yml
-identity:
-  name: "Edwin Martínez"
-  brand: "Ed Martinez"            # personal brand / diminutive
-  handle: "edxeme"
-  role: "Full-Stack Developer (bytes) & Architect (bricks)"
-  location: "Bogotá, Colombia"
-  email: "edxeme@gmail.com"
-  linkedin: "https://www.linkedin.com/in/edxeme"
-  github: "https://github.com/edxeme"
-  site: "https://edxeme.github.io"
-
-languages:
-  spanish: "Native / Bilingual"
-  english: "Full Professional"
-
-focus:
-  primary: "LLMOps"
-  secondary: ["AI", "RAG", "Vector Databases"]
-  narrative: "architect (bricks) -> developer (bytes) -> AI engineer"
-
-experience_years: 20
-status: "building AI-enhanced, cloud-native SaaS"
-```
-
----
-
 ## `$ export FOCUS="--ai-first"`
 
-> **`# pivoting: architect (bricks) → developer (bytes) → AI engineer (LLMOps)`**
->
-> Senior Full-Stack Developer with **20+ years** leading AEC & ConTech ventures, now building AI-enhanced, cloud-native SaaS. I design systems the way I once designed buildings — load paths, modularity, resilience — but the materials are now **Vue/Nuxt**, **FastAPI/GraphQL**, **vector databases**, and **local LLMs**.
+> Twenty years designing buildings, then bytes — the medium changed; the discipline (structure, systems, user impact) did not. I led AEC & ConTech ventures before pivoting into AI-enhanced, cloud-native SaaS, where I now ship **Vue/Nuxt**, **FastAPI/GraphQL**, **vector databases**, and **local LLM** pipelines with the same load-path rigor I once applied to concrete.
 
 <p align="left">
   <img alt="LLMOps" src="https://img.shields.io/badge/LLMOps-FF6F00?style=for-the-badge&logoColor=white">
@@ -124,23 +86,6 @@ status: "building AI-enhanced, cloud-native SaaS"
 
 ---
 
-## `$ neofetch`
-
-```text
-edxeme@contech-os:~$ neofetch
-
-        ╔══════════════════════════════════╗
-        ║   🧱 bricks   ──▶   💻 bytes     ║
-        ╚══════════════════════════════════╝
-
-  user      :  edxeme (Ed Martinez)
-  os        :  AI-enhanced SaaS
-  kernel    :  FastAPI + Strawberry GraphQL
-  shell     :  Vue/Nuxt + TailwindCSS
-  uptime    :  20+ yrs building (bricks → bytes)
-  location  :  Bogotá, Colombia
-```
-
 ## `$ sysctl -a 2>/dev/null | grep edxeme.metrics`
 
 ```text
@@ -153,9 +98,7 @@ edxeme@contech-os:~$ sysctl -a 2>/dev/null | grep edxeme.metrics
   edxeme.metrics.release_cycle_cut      -50%     # CI/CD automation (Cloud Run + Terraform)
   edxeme.metrics.infra_uptime           99.9%    # Toptal deployments (K8s + GitHub Actions)
   edxeme.metrics.client_rating          4.8/5    # Toptal client satisfaction
-  edxeme.metrics.toptal_projects        15+      # full-stack apps delivered
   edxeme.metrics.portfolio_managed      $5M+     # +15% ROI (Corfiamerica)
-  edxeme.metrics.peak_team_size         30       # construction crews (INCOAR)
 ```
 
 ---
@@ -167,10 +110,10 @@ timeline
     title bricks → bytes : a 20-year arc
     2006 - 2007   : Junior Architect (EL EQUIPO MAZZANTI · Arquitectura Activa)
     2008 - 2014   : Senior Architect → Co-Founder & CPO (Porvenir · Arq. diseño y contexto)
-    2014 - 2016   : Project Manager, Corfiamerica ($5M+ portfolios · BIM)
+    2014 - 2016   : Project Manager, Corfiamerica (BIM · Lean Construction)
     2016 - 2020   : Founder & MD, CONSTRUCTORA INCOAR (teams of 30)
     2021 - 2022   : Freelancer.com — 20+ SPAs (Vue/Next + Firebase)
-    2022 - 2025   : Toptal Senior Full-Stack — 15+ projects · 99.9% uptime
+    2022 - 2025   : Toptal Senior Full-Stack — 15+ projects
     2025 - Now    : ConTech AI Platform (RAG · pgvector) + Revelo AI Trainer
 ```
 
@@ -179,22 +122,22 @@ timeline
 ## `$ cat experience.log`
 
 ### `[2025-07 → now]` Revelo — **AI Trainer for Coding**
-Training & fine-tuning AI coding models by reviewing/improving AI-generated **Python**; writing TDD unit tests and reference solutions that produce high-quality human data for LLMs.
+Fine-tuning AI coding models by reviewing/improving AI-generated **Python**; writing TDD unit tests and reference solutions that produce high-quality human data for LLMs.
 
 ### `[2025-01 → now]` In-house ConTech AI Platform — **Lead Full-Stack Developer & AI Engineer** · Colombia
-AI-powered SaaS for real-estate & regulatory feasibility — **Vue/Nuxt** + **FastAPI/Strawberry GraphQL** + **MongoDB/pgvector** + **LangChain/Ollama** RAG → **+40%** evaluation efficiency, **500+** users, **−60%** API latency, **+35%** accuracy; shipped on **GCP Cloud Run + Terraform** CI/CD → **−50%** release cycles.
+AI-powered SaaS for real-estate & regulatory feasibility — **Vue/Nuxt** + **FastAPI/Strawberry GraphQL** + **MongoDB/pgvector** + **LangChain/Ollama** RAG, shipped on **GCP Cloud Run + Terraform** CI/CD.
 
 ### `[2022-09 → 2025-01]` (2y5m) Toptal — **Senior Full-Stack Developer**
-**15+** full-stack apps (Vue/Tailwind/Nest) with REST/GraphQL APIs → **−45%** DB latency; GCP deploys via Docker/K8s/GitHub Actions → **99.9%** uptime, **−70%** deploy time; **4.8/5** across cross-timezone teams.
+**15+** full-stack apps (Vue/Tailwind/Nest) with REST/GraphQL APIs; GCP deploys via Docker/K8s/GitHub Actions for cross-timezone teams.
 
 ### `[2021-01 → 2022-08]` (1y8m) Freelancer.com — **Full-Stack Developer**
-**20+** Vue/Next + Firebase SPAs (**95%** satisfaction); CI/CD + SSR → **+40%** load times.
+**20+** Vue/Next + Firebase SPAs (**95%** satisfaction) with CI/CD and SSR optimization.
 
 <details>
 <summary><b>↪ <code>$ tail experience.log</code> &nbsp; <i># the bricks era (2006–2020)</i></b></summary>
 
 - `[2016-08 → 2020-12]` **Founder & MD**, CONSTRUCTORA INCOAR (Bogotá) — led teams of **30**; Lean Construction + custom tracking software → **+25%** allocation, **−15%** delivery; pivoted toward ConTech.
-- `[2014-12 → 2016-06]` **Project Manager**, Corfiamerica (Bogotá) — predictive models over **$5M+** portfolios (**+15% ROI**); Lean + BIM → **−30%** delivery, **−20%** approval times.
+- `[2014-12 → 2016-06]` **Project Manager**, Corfiamerica (Bogotá) — predictive financial models; Lean + BIM → **−30%** delivery, **−20%** approval times.
 - `[2009-02 → 2014-11]` **Co-Founder & CPO**, Arquitectura diseño y contexto (Bogotá) — BIM + AutoCAD scripting → **−25%** blueprint delivery.
 - `[2008-01 → 2009-01]` **Senior Architect**, Porvenir (Bogotá) — Excel maintenance tracking (**+25%** efficiency).
 - `[2007-02 → 2007-12]` **Junior Architect**, Arquitectura Activa (Bogotá) — POS/commercial layouts in AutoCAD.
@@ -231,34 +174,13 @@ flowchart TD
 
 ---
 
-## `$ fetch --stats`
+## `$ fetch --activity`
 
 <p align="center">
-  <a href="https://github.com/edxeme">
-    <img height="170" alt="edxeme GitHub stats" src="https://github-readme-stats-eight-theta.vercel.app/api?username=edxeme&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true">
-  </a>
-  <a href="https://github.com/edxeme">
-    <img height="170" alt="edxeme top languages" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=edxeme&layout=compact&theme=tokyonight&hide_border=true">
-  </a>
-  <br>
   <a href="https://github.com/edxeme">
     <img height="170" alt="edxeme streak stats" src="https://streak-stats.demolab.com/?user=edxeme&theme=tokyonight&hide_border=true">
   </a>
 </p>
-
----
-
-## `$ activity-graph --render`
-
-<p align="center">
-  <a href="https://github.com/edxeme">
-    <img alt="edxeme activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=edxeme&theme=tokyo-night&hide_border=true&area=true&color=7BD7F7&line=7BD7F7&point=FFFFFF&title_color=7BD7F7">
-  </a>
-</p>
-
----
-
-## `$ ./snake.sh --animate contributions`
 
 <p align="center">
   <picture>
@@ -268,7 +190,7 @@ flowchart TD
   </picture>
 </p>
 
-> _The snake is generated by the [`Platane/snk`](https://github.com/Platane/snk) GitHub Action and committed to the `output` branch as `github-contribution-grid-snake.svg` (+ a `-dark` variant). It animates automatically on a daily cron._
+> _Snake generated by the [`Platane/snk`](https://github.com/Platane/snk) GitHub Action on the `output` branch._
 
 ---
 
@@ -300,38 +222,11 @@ edxeme@contech-os:~$ ls -1 /etc/certs
 
 ---
 
-## `$ echo $CONTACT`
-
-```bash
-edxeme@contech-os:~$ echo $CONTACT
-
-  # Site
-  curl -sL https://edxeme.github.io
-
-  # LinkedIn
-  curl -sL https://www.linkedin.com/in/edxeme
-
-  # Email
-  mail -s "let's build something" edxeme@gmail.com
-
-  # Code
-  git clone git@github.com:edxeme/edxeme.git
-```
-
-<p align="left">
-  <a href="https://edxeme.github.io"><img alt="Website" src="https://img.shields.io/badge/Web-edxeme.github.io-1f2937?style=flat-square&logo=googlechrome&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/edxeme"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-edxeme-0A66C2?style=flat-square&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:edxeme@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-edxeme@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white"></a>
-  <a href="https://github.com/edxeme"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-edxeme-181717?style=flat-square&logo=github&logoColor=white"></a>
-</p>
-
----
-
 ```text
 edxeme@contech-os:~$ logout
-# connection closed. thanks for reading — keep shipping. 🧱▶💻
+# connection closed. keep shipping. 🧱▶💻
 ```
 
 <p align="center">
-  <sub>Ed Martinez · bytes &nbsp;·&nbsp; formerly bricks &nbsp;·&nbsp; <code>edxeme@github</code></sub>
+  <sub>bytes &nbsp;·&nbsp; formerly bricks &nbsp;·&nbsp; <code>edxeme@github</code></sub>
 </p>
