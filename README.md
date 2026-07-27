@@ -91,14 +91,15 @@ edxeme 5.0.0-dev "bricks→bytes" x86_64 GNU/Linux
 ```text
 edxeme@contech-os:~$ sysctl -a 2>/dev/null | grep edxeme.metrics
 
-  edxeme.metrics.efficiency_gain        +40%     # project evaluation (ConTech AI platform)
-  edxeme.metrics.api_latency_reduction  -60%     # geospatial + financial GraphQL
-  edxeme.metrics.active_users           500+     # platform users
-  edxeme.metrics.rag_accuracy_gain      +35%     # regulation matching (LangChain + Ollama)
-  edxeme.metrics.release_cycle_cut      -50%     # CI/CD automation (Cloud Run + Terraform)
-  edxeme.metrics.infra_uptime           99.9%    # Toptal deployments (K8s + GitHub Actions)
-  edxeme.metrics.client_rating          4.8/5    # Toptal client satisfaction
-  edxeme.metrics.portfolio_managed      $5M+     # +15% ROI (Corfiamerica)
+  edxeme.metrics.api_latency         -60%     # FastAPI + Strawberry GraphQL
+  edxeme.metrics.db_latency          -45%     # MongoDB / MySQL query tuning
+  edxeme.metrics.deploy_time         -70%     # Docker · K8s · GitHub Actions
+  edxeme.metrics.release_cycle       -50%     # Cloud Run + Terraform CI/CD
+  edxeme.metrics.uptime              99.9%    # GCP production deployments
+  edxeme.metrics.page_load           +40%     # SSR + CI/CD optimization
+  edxeme.metrics.active_users        500+     # ConTech AI platform
+  edxeme.metrics.rag_accuracy        +35%     # LangChain + Ollama pipeline
+  edxeme.metrics.fullstack_projects  35+      # Toptal 15+ · Freelancer 20+
 ```
 
 ---
@@ -108,13 +109,13 @@ edxeme@contech-os:~$ sysctl -a 2>/dev/null | grep edxeme.metrics
 ```text
 edxeme@contech-os:~$ git log --oneline --career
 
-2025  Revelo · AI Trainer for Coding (Python / LLM human data)
-2025  In-house ConTech AI Platform · Lead Full-Stack & AI Engineer
-2022  Toptal · Senior Full-Stack Developer · 15+ projects · 4.8/5
-2021  Freelancer.com · Full-Stack Developer · 20+ SPAs · 95% sat.
-2016  CONSTRUCTORA INCOAR · Founder & MD · teams of 30
-2014  Corfiamerica · Project Manager · $5M+ portfolios
-2006  AEC & Construction · 14 yrs (BIM · Lean · AutoCAD)
+2025 - Now   Revelo · AI Trainer for Coding (Python / LLM human data)
+2025 - Now   In-house ConTech AI Platform · Lead Full-Stack & AI Engineer
+2022 - 2025  Toptal · Senior Full-Stack Developer · 15+ projects · 4.8/5
+2021 - 2022  Freelancer.com · Full-Stack Developer · 20+ SPAs · 95% sat.
+2016 - 2020  CONSTRUCTORA INCOAR · Founder & MD · teams of 30
+2014 - 2016  Corfiamerica · Project Manager · $5M+ portfolios
+2006 - 2014  AEC & Architecture · BIM · Lean · AutoCAD
 ```
 
 > _Education & certifications live on [LinkedIn](https://www.linkedin.com/in/edxeme) — BArch & M.Sc. Construction Management (Javeriana), B.Sc. Computer Science (in progress), SENA Software Dev, GCP / Python / Git / Docker certs._
