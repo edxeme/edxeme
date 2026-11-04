@@ -1,0 +1,27 @@
+name: Keepalive
+
+# GitHub disables scheduled workflows after 60 days of repository
+# inactivity. This pushes an empty commit monthly so the snake
+# workflow never gets disabled.
+
+on:
+  schedule:
+    - cron: "0 0 1 * *" # monthly, on the 1st at 00:00 UTC
+  workflow_dispatch: # allow manual runs
+
+permissions:
+  contents: write
+
+jobs:
+  keepalive:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout main
+        uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4
+
+      - name: Push empty keepalive commit
+        run: |
+          git config user.name "Edwin Martínez"
+          git config user.email "20196700+edxeme@users.noreply.github.com"
+          git commit --allow-empty -m "chore: keepalive — keep scheduled workflows active"
+          git push origin HEAD:main

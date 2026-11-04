@@ -60,7 +60,10 @@
 
 ![GitHub streak](https://streak-stats.demolab.com/?user=edxeme&theme=tokyonight&hide_border=true)
 
-![Contribution snake](https://raw.githubusercontent.com/edxeme/edxeme/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/edxeme/edxeme/output/github-contribution-grid-snake-dark.svg" />
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/edxeme/edxeme/output/github-contribution-grid-snake.svg" />
+</picture>
 
 ---
 
